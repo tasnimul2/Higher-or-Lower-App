@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this,"Try a higher number", Toast.LENGTH_LONG).show();
 
         if (RandomNumberGenerated == input){
-            Toast.makeText(this,"YOU GUESSED IT RIGHT! IT TOOK YOU "+ attempts + " ATTEMPTS", Toast.LENGTH_LONG).show();
+            Toast.makeText(this,"YOU GUESSED IT RIGHT! IT TOOK YOU "+ attempts + " ATTEMPTS. RESET TO PLAY AGAIN", Toast.LENGTH_LONG).show();
             attempts =0;
 
         }
