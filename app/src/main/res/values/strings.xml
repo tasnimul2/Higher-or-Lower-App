@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Higher or Lower?</string>
+    <string name="guess_a_number_between_1_to_20">Guess a number between 1 to 20</string>
+    <string name="imageofquestion">imageofquestion</string>
+    <string name="enter_a_positive_number">Enter a Positive number</string>
+    <string name="guess">Guess!</string>
+    <string name="generate_new_number">Generate New Number</string>
+</resources>
