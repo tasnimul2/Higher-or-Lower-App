@@ -1,4 +1,4 @@
-# Higher-or-Lower-App
+# :game_die: Higher-or-Lower-App :game_die:
 A guessing game that generates a random number between 1-20 which the user must guess
 
 ### What I learned 
